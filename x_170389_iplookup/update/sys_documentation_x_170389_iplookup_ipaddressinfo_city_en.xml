@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="City" language="en" table="x_170389_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>City</label>
+            <language>en</language>
+            <name>x_170389_iplookup_ipaddressinfo</name>
+            <plural>Cities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mohd.shahnawaz</sys_created_by>
+            <sys_created_on>2020-09-23 11:48:52</sys_created_on>
+            <sys_id>91fa7fab1b1b101030aa8515ec4bcb34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City</sys_name>
+            <sys_package display_value="IPLookup" source="x_170389_iplookup">780f97e31b97101030aa8515ec4bcb40</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">780f97e31b97101030aa8515ec4bcb40</sys_scope>
+            <sys_update_name>sys_documentation_x_170389_iplookup_ipaddressinfo_city_en</sys_update_name>
+            <sys_updated_by>mohd.shahnawaz</sys_updated_by>
+            <sys_updated_on>2020-09-23 11:48:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
